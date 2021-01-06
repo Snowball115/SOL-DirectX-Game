@@ -10,3 +10,15 @@ Collectibles can be collected on the field, which can heal the monster in battle
 ![Screen02](https://github.com/Snowball115/SOL-DirectX-Game/blob/main/Screenshots/Screen02.png)
 ![Screen03](https://github.com/Snowball115/SOL-DirectX-Game/blob/main/Screenshots/Screen03.png)
 ![Screen04](https://github.com/Snowball115/SOL-DirectX-Game/blob/main/Screenshots/Screen04.png)
+
+Engine features:
+* Moving and rotating objects
+* Camera movement
+* Rendering simple 3D objects
+* Vertex and pixel shader
+* Directional lighting
+* Collision
+* Player input
+* Skybox
+* Particle generator
+* States
