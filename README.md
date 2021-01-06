@@ -10,3 +10,4 @@ Collectibles can be collected on the field, which can heal the monster in battle
 ![Screen02](https://github.com/Snowball115/SOL-DirectX-Game/blob/master/Screenshots/Screen02.png?raw=true)
 ![Screen03](https://github.com/Snowball115/SOL-DirectX-Game/blob/master/Screenshots/Screen03.png?raw=true)
 ![Screen04](https://github.com/Snowball115/SOL-DirectX-Game/blob/master/Screenshots/Screen04.png?raw=true)
+![GIF](https://github.com/Snowball115/SOL-DirectX-Game/blob/master/Screenshots/GameFootage.gif?raw=true)
