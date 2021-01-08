@@ -24,4 +24,3 @@ In addition, you can find some game footage in the "Screenshots" folder.
 ![Screen01](https://github.com/Snowball115/SOL-DirectX-Game/blob/main/Screenshots/Screen01.png)
 ![Screen02](https://github.com/Snowball115/SOL-DirectX-Game/blob/main/Screenshots/Screen02.png)
 ![Screen03](https://github.com/Snowball115/SOL-DirectX-Game/blob/main/Screenshots/Screen03.png)
-![Screen04](https://github.com/Snowball115/SOL-DirectX-Game/blob/main/Screenshots/Screen04.png)
