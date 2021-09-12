@@ -18,6 +18,9 @@ Collectibles can be collected on the field, which can heal the monster in battle
 * Particle generator
 * States
 
+## Requirements
+* Microsoft DirectX SDK
+
 ## Screenshots
 In addition, you can find some game footage in the "Screenshots" folder.
 
